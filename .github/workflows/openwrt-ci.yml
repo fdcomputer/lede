@@ -17,7 +17,7 @@ jobs:
 
   build_openwrt:
 
-    name: Build OpenWrt firmware
+    name: Build OpenWrt firmware TEST
 
     runs-on: ubuntu-latest
 
